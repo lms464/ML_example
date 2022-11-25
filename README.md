@@ -10,7 +10,7 @@ My working assumption is you have Python3 through anaconda
 ## How to access
 
 1. Click code > downlaod zip
-2. git clone git@github.com:lms464/ML_example.git
+2. ```git clone git@github.com:lms464/ML_example.git```
 
 ## Download Scikit.learn
 - Mac or Linux: ```conda install -c anaconda scikit-learn ```
