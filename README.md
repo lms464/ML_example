@@ -1,7 +1,7 @@
 # README
 My working assumption is you have Python3 through anaconda
 
-## Example modified from: https://www.kaggle.com/code/jchen2186/machine-learning-with-iris-dataset/notebook
+## Example modified from: ```https://www.kaggle.com/code/jchen2186/machine-learning-with-iris-dataset/notebook```
 ## Purpose of the example
 - provide a ''quick and easy'' example of machine learning
 - apply concepts used in less
