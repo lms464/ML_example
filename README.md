@@ -13,5 +13,11 @@ My working assumption is you have Python3 through anaconda
 2. ```git clone git@github.com:lms464/ML_example.git```
 
 ## Download Scikit.learn
-- Mac or Linux: ```conda install -c anaconda scikit-learn ```
+- Mac or Linux: 
+	- ```conda install -c anaconda scikit-learn ```
+	- ```conda install seaborn```
 - Windows: oppen your annaconda prompt then ```conda install -c anaconda scikit-learn ```
+
+## I don't use conda
+- ```pip install -U scikit-learn```
+- ```pip install seaborn```
