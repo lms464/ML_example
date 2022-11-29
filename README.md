@@ -22,3 +22,7 @@ My working assumption is you have Python3 through anaconda
 - Same options for Mac, Linux or Windows as above:
 	- ```pip install -U scikit-learn```
 	- ```pip install seaborn```
+
+## Running the Jupyter notebook
+``` jupyter notebook jupyter notebook Iris-ML-Example.ipynb```
+
