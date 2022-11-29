@@ -19,5 +19,6 @@ My working assumption is you have Python3 through anaconda
 - Windows: oppen your annaconda prompt then ```conda install -c anaconda scikit-learn ```
 
 ## I don't use conda
-- ```pip install -U scikit-learn```
-- ```pip install seaborn```
+- Same options for Mac, Linux or Windows as above:
+	- ```pip install -U scikit-learn```
+	- ```pip install seaborn```
